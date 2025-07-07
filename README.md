@@ -3,9 +3,9 @@
 🎓 Soy Estudiante de Ingeniería en el Desarrollo y Gestión de Software.  
 
 📘 Este espacio es mi bitácora de crecimiento, donde podrás encontrar:  
-🔧 Proyectos escolares  
-🧪 Experimentos personales  
-🛠️ Herramientas que voy descubriendo  
+      🔧 Proyectos escolares  
+      🧪 Experimentos personales  
+      🛠️ Herramientas que voy descubriendo  
 
 💡 Siempre con ganas de mejorar y colaborar 🚀
 ---
