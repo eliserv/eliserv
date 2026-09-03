@@ -13,7 +13,7 @@
 ## 🔧 Tecnologías que uso
 - **Lenguajes:** Java, JavaScript, Python, PHP, C#
 - **Frameworks:** React, Flutter, CodeIgniter
-- **Bases de datos:** MySQL, MySQL Server, MongoDB, Firebase
+- **Bases de datos:** MySQL, SQL Server, MongoDB, Firebase
 - **Herramientas:** GitHub, Postman, Visual Studio, NetBeans
 
 ---
